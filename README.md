@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Nicolas Dionysiadis 👋
 
-<!--
-**ndionysiadis/ndionysiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I'm a software developer with experience in Vue.js, Laravel, and TypeScript.
 
-Here are some ideas to get you started:
+🚀 I'm currently working on projects using the VILT stack and exploring new front-end packages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies I work with:
+- Vue.js
+- Laravel
+- TypeScript
+- Tailwind CSS
+
+💬 Feel free to reach out or connect:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio.dev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-dionysiadis&show_icons=true)
