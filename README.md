@@ -22,12 +22,4 @@ ___
  <a href="https://github.com/ndionysiadis">
         <img src="https://github-readme-stats.vercel.app/api?username=ndionysiadis&show_icons=true&theme=dark&card_width=450&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&hide=contribs&icon_color=white&hide_rank=true&line_height=24" alt="Nicolas Dionysiadis's GitHub Stats">
  </a>
- 
-___
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=25&pause=1000&color=F7F7F7&repeat=false&width=650&lines=%E2%9A%A1Projects)](https://git.io/typing-svg)
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndionysiadis&repo=coup&theme=dark&card_width=450" alt="COUP GitHub Repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndionysiadis&repo=contacts&theme=dark&card_width=450" alt="Contacts GitHub Repo">
-  </div>
 </div>
