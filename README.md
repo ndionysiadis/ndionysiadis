@@ -1,6 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=ndionysiadis&color=gray)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=32&pause=1000&color=F7F7F7&repeat=false&width=650&lines=Hi+there%2C+I'm+Nicolas+Dionysiadis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=32&pause=1000&color=F7F7F7&repeat=false&width=650&lines=Hi+there%2C+I'm+Nikolas+Dionysiadis)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a Software Developer with experience
 since 2023, focusing primarily on front-end development while contributing to backend tasks as well. Leveraging over 10 years of experience as a Senior Graphic Designer, I bring a unique combination of technical development skills and a strong design sensibility, enabling me to create seamless and visually compelling user experiences.
